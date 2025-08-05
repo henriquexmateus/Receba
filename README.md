@@ -3,6 +3,7 @@ O **Receba!** é um aplicativo Android com a função de marcar tarefas e recebe
 
 ## Objetivos do projeto
 Esse projeto teve inicio com uma reflexão descontente: "A minha indisciplina frente às minhas obrigações está me prejudicando". Com isso em mente, veio a ideia de preparar um ambiente para armazenar as minhas tarefas e de pontuá-las de forma que eu poderia me recompensar e me motivar quando eu estiver sendo produtivo. Um software de fácil acesso, como um aplicativo de celular, serial ideal para construir essa estratégia. Em lojas virtuais, como a "Play Store", já existem aplicativos similares, porém, nenhum desses é gratuito ou tem todos os requisitos necessários para uso. Assim, cheguei a ideia de desenvolver o **Receba!**.  
+  
   Além da criação do aplicativo, a própria jornada de desenvolvimento é um dos objetivos do projeto. Busco aprender a desenvolver em um ambiente Android e na linguagem de programação kotlin.
 
 ## Por que "Receba!"?
